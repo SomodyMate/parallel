@@ -1,4 +1,6 @@
-# parallel IGRYHL Somody Máté
+# Párhuzamos Algoritmusok
+Neptunkód: IGRYHL
+Név: Somody Máté
 
 Féléves feladat leírása
 
